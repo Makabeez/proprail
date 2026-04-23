@@ -7,7 +7,7 @@ Prop-trading firms pay their funded traders in USD-equivalent amounts, often to 
 ## Live
 
 - **Contract (verified):** [`0xF46E0b43AEf82114DA8a8F62D66bb7b63D3b00b7`](https://testnet.arcscan.app/address/0xF46E0b43AEf82114DA8a8F62D66bb7b63D3b00b7) on Arc Testnet
-- **Demo:** coming soon (Vercel deploy in progress)
+- **Demo:** [`https://proprail.vercel.app`](https://proprail.vercel.app)
 
 ## How it works
 
